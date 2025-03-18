@@ -1,3 +1,3 @@
-Plotting code for the submitted version of https://osf.io/preprints/psyarxiv/fzk9t/. 
+Code for the submitted version of https://osf.io/preprints/psyarxiv/fzk9t/. 
 
-Each "fig_x" function generates the stats and figures used in the submitted paper. 
+Each Fig function reproduces figure and stats for the submitted paper. 
